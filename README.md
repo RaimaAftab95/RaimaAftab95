@@ -3,7 +3,8 @@
 
 **About Me** 🚀
 
-I'm Raima👩‍💻, a Front-end web development apprentice at IEC.
+I'm Raima👩‍💻,Recently working as Front-end web developer at outworkx.
+I have complete Front-end web development apprentice at IEC in Feb 2024.
 I'm passionate about creating user-friendly and visually appealing web applications and dedicated to coding excellence with a keen eye for design.
 I believe in constantly learning and growing in the dynamic field of web development.
 
