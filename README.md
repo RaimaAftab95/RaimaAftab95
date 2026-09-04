@@ -3,15 +3,15 @@
 
 **About Me** 🚀
 
-👩‍💻 Software Developer | Java | Python | React | MERN
+👩‍💻 **Software Developer | Java | Python | React | MERN**
 
 I'm Raima Aftab, a Software Developer passionate about building modern, user-friendly web applications.
 
-💻 Experienced in Java, Python, JavaScript, React.js, and MERN stack development
-🧪 Practicing OOP, SOLID, TDD, Clean Code & Agile
-🤖 Exploring AI-assisted development with Claude & GitHub Copilot
-🚀 Building and contributing to real-world web applications
-🌱 Continuously learning and growing as a software developer.
+- 💻 Experienced in Java, Python, JavaScript, React.js, and MERN stack development
+- 🧪 Practicing OOP, SOLID, TDD, Clean Code & Agile
+- 🤖 Exploring AI-assisted development with Claude & GitHub Copilot
+- 🚀 Building and contributing to real-world web applications
+- 🌱 Continuously learning and growing as a software developer
 
 **Projects** 🛠️
 
@@ -20,9 +20,10 @@ Explore my GitHub repositories to see:
 - 🌟 High-quality code.
 - 🌐 Positive impact on the web development community.
 
-***Connect with me** 📧
+**Connect with me** 📧
 
-- LinkedIn: 🔗 linkedin.com/in/raima-aftab-059b77291
+- LinkedIn: 🔗 www.linkedin.com/in/raimaaftab
+
 - Email: 📧 raima.aftab2022@gmail.com
 
 Always open to new opportunities and connections in the web development world.
