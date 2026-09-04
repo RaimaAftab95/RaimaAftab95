@@ -3,10 +3,15 @@
 
 **About Me** 🚀
 
-I'm Raima👩‍💻,Recently working as Front-end web developer at outworkx.
-I have complete Front-end web development apprentice at IEC in Feb 2024.
-I'm passionate about creating user-friendly and visually appealing web applications and dedicated to coding excellence with a keen eye for design.
-I believe in constantly learning and growing in the dynamic field of web development.
+👩‍💻 Software Developer | Java | Python | React | MERN
+
+I'm Raima Aftab, a Software Developer passionate about building modern, user-friendly web applications.
+
+💻 Experienced in Java, Python, JavaScript, React.js, and MERN stack development
+🧪 Practicing OOP, SOLID, TDD, Clean Code & Agile
+🤖 Exploring AI-assisted development with Claude & GitHub Copilot
+🚀 Building and contributing to real-world web applications
+🌱 Continuously learning and growing as a software developer.
 
 **Projects** 🛠️
 
